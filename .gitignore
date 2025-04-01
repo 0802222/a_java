@@ -1,0 +1,16 @@
+lang-coordinator/
+music-coordinator/
+.DS_Store
+.idea/
+*.iml
+out/
+*.class
+*.log
+*.jar
+lang-coordinator/
+music-coordinator/
+node_modules/
+.gradle/
+build/
+.vscode/
+
